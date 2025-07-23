@@ -4,6 +4,7 @@
 
 1. Clone or download my project code
 2. Navigate to project directory:
+  cd Appendix
   cd code
 
 3. Download rockyou.txt under 'APPENDIX/code' in (https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt), 
