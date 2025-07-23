@@ -8,7 +8,7 @@
   cd code
 
 3. Download rockyou.txt under 'APPENDIX/code' in (https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt), 
-you will get 'APPENDIX/code/rockyou.txt'
+put the file under 'APPENDIX/code/rockyou.txt'
 
 4. Create a virtual environment in Mac:
   python3 -m venv venv
